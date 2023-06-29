@@ -16,7 +16,7 @@ git clone https://github.com/codeTIT4N/NethereumSample
 dotnet build
 ```
 
-- Step 3: Create `.env` using [`.env.example`](./env.example):
+- Step 3: Create `.env` using [`.env.example`](./.env.example):
 
 ```bash
 cp .env.example .env
